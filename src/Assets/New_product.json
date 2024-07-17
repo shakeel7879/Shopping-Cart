@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Lymio Men T-Shirt",
+    "image": "https://m.media-amazon.com/images/I/71Jukhvw8DL._SY741_.jpg",
+    "price": "333",
+    "arrival": "new"
+  },
+  {
+    "id": 2,
+    "name": "LEOTUDE Men's Full Sleeve T-Shirt",
+    "image": "https://m.media-amazon.com/images/I/61tM2jn7LQL._SX679_.jpg",
+    "price": "333"
+  },
+  {
+    "id": 3,
+    "name": "EYEBOGLER Men's T-Shirt",
+    "image": "https://m.media-amazon.com/images/I/51SuxU4vDnL._SX569_.jpg",
+    "price": "333",
+    "arrival": "new"
+  },
+  {
+    "id": 4,
+    "name": "Aero Armour Mens T-Shirt",
+    "image": "https://m.media-amazon.com/images/I/51owo5fln2L._SX679_.jpg",
+    "price": "333"
+  },
+  {
+    "id": 5,
+    "name": "JUARI GENTLEMAN Mens T-Shirt",
+    "image": "https://m.media-amazon.com/images/I/610FUjGAqBL._SY879_.jpg",
+    "price": "333"
+  },
+  {
+    "id": 6,
+    "name": "London Hills Full Sleeve Mens T-Shirt",
+    "image": "https://m.media-amazon.com/images/I/61kWHspTLbL._SX679_.jpg",
+    "price": "333",
+    "arrival": "new"
+  }
+]

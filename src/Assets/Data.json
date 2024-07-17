@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Lymio Men T-Shirt",
+    "image": "https://m.media-amazon.com/images/I/71Jukhvw8DL._SY741_.jpg",
+    "price": "299",
+    "arrival": "new"
+  },
+  {
+    "id": 2,
+    "name": "LEOTUDE Men's Full Sleeve T-Shirt",
+    "image": "https://m.media-amazon.com/images/I/61tM2jn7LQL._SX679_.jpg",
+    "price": "499"
+  },
+  {
+    "id": 3,
+    "name": "EYEBOGLER Men's T-Shirt",
+    "image": "https://m.media-amazon.com/images/I/51SuxU4vDnL._SX569_.jpg",
+    "price": "599",
+    "arrival": "new"
+  },
+  {
+    "id": 4,
+    "name": "Aero Armour Mens T-Shirt",
+    "image": "https://m.media-amazon.com/images/I/51owo5fln2L._SX679_.jpg",
+    "price": "299"
+  },
+  {
+    "id": 5,
+    "name": "JUARI GENTLEMAN Mens T-Shirt",
+    "image": "https://m.media-amazon.com/images/I/610FUjGAqBL._SY879_.jpg",
+    "price": "159"
+  },
+  {
+    "id": 6,
+    "name": "London Hills Full Sleeve Mens T-Shirt",
+    "image": "https://m.media-amazon.com/images/I/61kWHspTLbL._SX679_.jpg",
+    "price": "459",
+    "arrival": "new"
+  },
+  {
+    "id": 7,
+    "name": "BULLMER Black Mens T-Shirt",
+    "image": "https://m.media-amazon.com/images/I/612Rl6GKHoL._SX679_.jpg",
+    "price": "249"
+  },
+  {
+    "id": 8,
+    "name": "Lux Cozi Men's T-Shirt",
+    "image": "https://m.media-amazon.com/images/I/51uSxAeuAkL._SY741_.jpg",
+    "price": "249"
+  },
+  {
+    "id": 9,
+    "name": "London Hills Men's T-shirt",
+    "image": "https://m.media-amazon.com/images/I/710aLxpkdSL._SX679_.jpg",
+    "price": "399"
+  },
+  {
+    "id": 10,
+    "name": "GLORYBOYZ Shirt Mens Shirt",
+    "image": "https://m.media-amazon.com/images/I/6141jXITCML._SY879_.jpg",
+    "price": "200"
+  },
+  {
+    "id": 11,
+    "name": "Pinkmint Mens Shirt",
+    "image": "https://m.media-amazon.com/images/I/61WswLTIRqL._SY741_.jpg",
+    "price": "449"
+  },
+  {
+    "id": 12,
+    "name": "Bellstone Men Shirt",
+    "image": "https://m.media-amazon.com/images/I/61NloRw77IL._SY879_.jpg",
+    "price": "299"
+  },
+  {
+    "id": 13,
+    "name": "GLORYBOYZ Half Sleeve Mens Shirt",
+    "image": "https://m.media-amazon.com/images/I/61LuD1oqQNL._SY879_.jpg",
+    "price": "399"
+  },
+  {
+    "id": 14,
+    "name": "U-TURN Men's Shirt",
+    "image": "https://m.media-amazon.com/images/I/51vubyODw8L.jpg",
+    "price": "259"
+  },
+  {
+    "id": 15,
+    "name": "GRECIILOOKS Men's Shirt",
+    "image": "https://m.media-amazon.com/images/I/71QrkXBPABL._SY879_.jpg",
+    "price": "199"
+  },
+  {
+    "id": 16,
+    "name": "DEELMO Men's Shirt",
+    "image": "https://m.media-amazon.com/images/I/61jP8mz3XIL._SX679_.jpg",
+    "price": "299"
+  },
+  {
+    "id": 17,
+    "name": "Majestic Man Shirt",
+    "image": "https://m.media-amazon.com/images/I/61rqCAgO8nL._SY879_.jpg",
+    "price": "300"
+  }
+]

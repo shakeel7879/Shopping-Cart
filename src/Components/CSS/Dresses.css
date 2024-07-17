@@ -1,0 +1,50 @@
+.dress-body {
+  padding: 10px;
+}
+
+.dresses {
+  width: 200px;
+  height: 270px;
+  border: 1px solid #222;
+  background-color: #efefef;
+}
+
+.dresses .img {
+  width: 100%;
+  height: 150px;
+}
+
+.dresses .img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.dress-details {
+  padding: 5px;
+}
+
+.dress-details h3 {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.dress-details p {
+  text-align: center;
+}
+
+.dress-details button {
+  margin-top: 10px;
+}
+
+.btnAdd {
+  background-color: #6363db;
+}
+
+.btnremove {
+  background-color: rgb(158, 24, 24) !important;
+}
+
+.btnremove:hover {
+  background-color: rgb(130, 24, 24) !important;
+}
